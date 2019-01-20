@@ -17,7 +17,7 @@ class Mining extends Component {
   render() {
     return (
       <div>
-        <h2>Start Mine?</h2>
+        <h2>Start mining?</h2>
         <button className='button-mining'
           onClick={()=>this.mining()}>Mining</button><br/>
         <p>{this.state.data}</p>
