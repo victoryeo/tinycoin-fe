@@ -1,6 +1,6 @@
 This code was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is the front end of tinycoin blockchain.
+This is the front end of tinycoin blockchain. It supports mining, sending transaction, querying account balance and getting block information.
 
 ## Available Scripts
 
